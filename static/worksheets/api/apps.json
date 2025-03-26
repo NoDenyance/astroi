@@ -175,7 +175,7 @@
 		"listed": true
 	},
 	{
-		"title": "GOKU",
+		"title": "GOKU.sx",
 		"tags": ["anime"],
 		"source": "https://goku.sx/home",
 		"type": "app",
@@ -500,6 +500,34 @@
 		"title": "Invidious",
 		"tags": ["stream"],
 		"source": "https://redirect.invidious.io/",
+		"type": "app",
+		"listed": true
+	},
+	{
+		"title": "MangaDex",
+		"tags": ["manga"],
+		"source": "https://mangadex.org/",
+		"type": "app",
+		"listed": true
+	},
+	{
+		"title": "ComicK",
+		"tags": ["manga", "comic"],
+		"source": "https://comick.io/home2",
+		"type": "app",
+		"listed": true
+	},
+	{
+		"title": "MangaPark",
+		"tags": ["manga"],
+		"source": "https://mangapark.io/",
+		"type": "app",
+		"listed": true
+	},
+	{
+		"title": "Weeb Central",
+		"tags": ["manga"],
+		"source": "https://weebcentral.com/",
 		"type": "app",
 		"listed": true
 	}
